@@ -1,0 +1,33 @@
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\ApplicationInsights.config
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\csc.exe
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\System.Collections.Immutable.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\vbc.exe
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\VBCSCompiler.exe
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\roslyn\VBCSCompiler.exe.config
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Pizza Delicious.dll.config
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Pizza Delicious.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Pizza Delicious.pdb
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.Web.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.WindowsServer.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.ApplicationInsights.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.Web.xml
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.AI.WindowsServer.xml
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.ApplicationInsights.xml
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.csprojResolveAssemblyReference.cache
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Pizza Delicious\Pizza Delicious\obj\Debug\Pizza Delicious.pdb
